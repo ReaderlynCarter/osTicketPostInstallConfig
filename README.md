@@ -31,9 +31,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <h3>Configure Roles (for grouping permissions)</h3>
-<img src="https://img.youtube.com/vi/J0IAWFgxjSQ/0.jpg" alt="Configure Roles Thumbnail" width="50%" />
-<br />
-Click <a href="https://www.youtube.com/watch?v=J0IAWFgxjSQ" target="_blank">here</a> to watch the demo.
+
+![image](https://github.com/user-attachments/assets/6d75b5e9-ff65-4655-bf22-b95c78784427)
+
 
 <h3>Configure Departments (for grouping permissions)</h3>
 <img src="https://img.youtube.com/vi/JqwatCU4EqU/0.jpg" alt="Configure Departments Thumbnail" width="50%" />
