@@ -30,17 +30,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h3>Configure Roles (for grouping permissions)</h3>
+<h3> 1. Configure Roles (for grouping permissions)</h3>
 
-<h3>Configure Departments (for grouping permissions)</h3>
+<h3> 2. Configure Departments (for grouping permissions)</h3>
 
-<h3>Configure Teams</h3>
+<h3> 3. Configure Teams</h3>
 
-<h3>Configure Agents Users</h3>
+<h3> 4. Configure Agents Users</h3>
 
-<h3>Configure Service Level Agreements (SLA)</h3>
+<h3> 5. Configure Service Level Agreements (SLA)</h3>
 
-<h3>Configure Help Topics</h3>
+<h3> 6. Configure Help Topics</h3>
 
 ![image](https://github.com/user-attachments/assets/81e063c5-672c-4321-9f9c-2e7a89ceb0d5)
 
